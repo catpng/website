@@ -1,0 +1,39 @@
+body {
+    background-color: grey;
+}
+
+p {
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 150%;
+}
+
+img { 
+    width: 25%;
+    height: 25%;
+    display:block;
+    margin-inline:auto;
+}
+
+a {
+    color: black;    
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.green {
+    color: green;
+}
+
+#greener{
+    color: olive;
+}
+
+#blegg {
+    width: 70%;
+    height: 100%;
+    background-color: rgb(174, 174, 214);
+    margin-inline: auto;
+}
